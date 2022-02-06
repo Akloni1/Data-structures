@@ -1,0 +1,13 @@
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.exe
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.deps.json
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.runtimeconfig.json
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.runtimeconfig.dev.json
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.dll
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\bin\Debug\netcoreapp3.1\Badoo.pdb
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.dll
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.pdb
+C:\Users\Михаил\RiderProjects\Badoo\Badoo\obj\Debug\netcoreapp3.1\Badoo.genruntimeconfig.cache
